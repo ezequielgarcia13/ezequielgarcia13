@@ -1,16 +1,16 @@
-### Hi there 👋
+##  🙋‍♂️ Me presento
 
-<!--
-**ezequielgarcia13/ezequielgarcia13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hola! Soy Ezequiel, Analista de datos 📊 y estudiante de Lic. en Ciencia de Datos. 
 
-Here are some ideas to get you started:
+👀 Me interesa la tecnología, los datos y como utilizarlos para tomar buenas decisiones. Las herramientas que utilizo generalmente son: SQL, Tableau, Python y hojas de cálculo.
+ 
+🌱 Actualmente estoy aprendiendo machine learning y vizualización de datos en python utilizando las librerías scikit-learn, Numpy y matplotlib.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Proyectos
+
+Acá podés encontrar algunos de mis [proyectos](https://github.com/ezequielgarcia13?tab=repositories).
+
+
+
+
+
